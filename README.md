@@ -9,6 +9,7 @@ In descriptive analytics, several things can be used in solving:
 - Interpreting Result
 ### Metrics
 <div align="center"><img src="https://github.com/Shabiyyahzlf/Data_Analytics_2/assets/89763971/f6f779df-1da9-4b7a-8be5-5228b746f571" /></div>
+
 Function describe()
 - Count: The total number of elements in the column
 - Mean: The mean average of the element in the column.
