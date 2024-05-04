@@ -140,6 +140,7 @@ S- Sugar Tablet (Placebo) [1 tab/2tabs/3tabs]
 <div align="center"><img src="https://github.com/Shabiyyahzlf/Data_Analytics_2/assets/89763971/13231ebb-8fb1-4379-8f10-9ba0b397d46f" /></div>
 
 #### Load Dataset
+We use the “Salary_Data” dataset to involves predicting about the salary or wages of workers or individuals based on experience.
 <div align="center"><img src="https://github.com/Shabiyyahzlf/Data_Analytics_2/assets/89763971/6233c106-d032-48ed-9847-89b962f93afb" /></div>
 
 #### Check Data Condition
